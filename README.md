@@ -1,1 +1,2 @@
-# This is my second attempt at making a website portfolio
+# This is my Second attempt at making a website portfolio
+Further changes will be made accordingly
